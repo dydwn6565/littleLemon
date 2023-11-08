@@ -4,6 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <meta name="description" content="your text goes here"/>
+      <meta name="og:title" content=""/>
+      <meta name="og:description" content=""/>
+      <meta name="og:image" content=""/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
